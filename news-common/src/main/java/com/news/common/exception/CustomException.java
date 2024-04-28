@@ -1,6 +1,6 @@
-package com.heima.common.exception;
+package com.news.common.exception;
 
-import com.heima.model.common.enums.AppHttpCodeEnum;
+import com.news.model.common.enums.AppHttpCodeEnum;
 
 public class CustomException extends RuntimeException {
 
