@@ -1,4 +1,4 @@
-package com.heima.utils.common;
+package com.news.utils.common;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

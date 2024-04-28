@@ -1,4 +1,4 @@
-package com.heima.utils.common;
+package com.news.utils.common;
 
 import org.apache.commons.beanutils.ConvertUtils;
 import org.apache.commons.lang3.StringUtils;

@@ -1,5 +1,4 @@
-package com.heima.utils.common;
-
+package com.news.utils.common;
 
 import java.util.*;
 
